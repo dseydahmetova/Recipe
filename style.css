@@ -1,0 +1,35 @@
+.top {
+  text-align: center;
+}
+.image {
+  width: 30%;
+  padding-bottom: 30px;
+}
+body {
+  background: rgb(222, 230, 245);
+  font-size: 20px;
+}
+.box {
+  background: rgb(247, 245, 238);
+  padding: 20px;
+}
+iframe {
+  display: block;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+.table {
+  margin: 35px 0;
+  font-size: 1.2em;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+h1 {
+  color: rgb(56, 17, 17);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h2 {
+  text-decoration: underline;
+}
